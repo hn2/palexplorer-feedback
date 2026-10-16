@@ -1,0 +1,19 @@
+# Palexplorer Feedback & Issue Tracker Terms
+
+Copyright (c) 2026 Palexplorer. All rights reserved.
+
+This repository (`hn2/palexplorer-feedback`) is the public issue tracker and community feedback portal for **Palexplorer** (https://www.inkfold.app). It contains no proprietary application source code.
+
+## 1. License for Submitted Feedback, Bug Reports & Feature Ideas
+
+By opening an issue, comment, reproduction script, or feature suggestion in this repository ("Feedback"), you agree that:
+- Your submission is governed by the **Palexplorer Terms of Service** (https://palexplorer.com/terms) and, if you are a member of the Palexplorer Tester Program, the **Tester Program Supplement (v1.1)** (https://app.inkfold.app/tester-supplement-v1.1.html).
+- You grant Palexplorer and FusionLayer a perpetual, irrevocable, worldwide, non-exclusive, royalty-free, transferable license (with the right to sublicense) to use, reproduce, modify, incorporate, and distribute your Feedback in any product, specification, or service without compensation or restriction.
+
+## 2. Code Snippets & Documentation in Issues
+
+Minimal reproduction scripts or configuration snippets posted in public issues are provided under the **MIT License**, and documentation text in this repository (`README.md`, `SECURITY.md`) is licensed under **CC BY 4.0**.
+
+## 3. Do Not Post Secrets, Credentials, or Personal Data
+
+This is a **public** repository. Do NOT post API keys, access tokens, passwords, private prompts, personal data (PII), or unpatched security vulnerabilities in public issues. Report security or privacy issues privately per [`SECURITY.md`](SECURITY.md) or via `security@palexplorer.com`.
