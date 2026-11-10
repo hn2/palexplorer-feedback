@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Quick question or chat — Palexplorer Discord
+    url: https://discord.gg/VrCcGmNJ8Q
+    about: Setup help, quick bug reports and announcements.
+  - name: Security or privacy report
+    url: https://github.com/hn2/palexplorer-feedback/blob/main/SECURITY.md
+    about: Do not post security, privacy, or personal-data issues publicly.
