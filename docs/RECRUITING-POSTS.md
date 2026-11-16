@@ -40,7 +40,7 @@ https://github.com/hn2/palexplorer-feedback — https://discord.gg/VrCcGmNJ8Q
 
 ## Reddit — r/SideProject, r/alphaandbetatesting, r/betatests
 
-**Title:** Palexplorer beta: file sharing and streaming between your own devices and friends
+**Title:** Palexplorer beta: file sharing and streaming between your own devices and pals
 
 Same text as the r/selfhosted post, shortened to three paragraphs, with the tester-and-feedback links first.
 
